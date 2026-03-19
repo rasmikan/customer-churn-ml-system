@@ -27,6 +27,7 @@ cd app
 streamlit run app.py
 
 ## Screenshots
-
-![Prediction](screenshot1.png)
-![Dashboard](screenshot2.png)
+- Dashboard
+![Dashboard](screenshot1.png)
+- Prediction
+![Prediction](screenshot2.png)
